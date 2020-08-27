@@ -1,4 +1,4 @@
-# Melo3D-AI
+# Carcasa-7LCD-Melo3D
 
 Initial commit includes: upload of Carcasa: STL of 7" LCD screen + RPI holder, designed by Javier Dario Hermosa Melo.
 
